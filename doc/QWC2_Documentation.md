@@ -246,7 +246,7 @@ or, if working in an environment without node, using the equivalent command
     python3 qwc2/scripts/themesConfig.py
 
 
-If you want to manage multiple `themesConfig.json` files, you can specify which while should be processed by the theme generation script via the `QWC2_THEMES_CONFIG` environment variable.
+If you want to manage multiple `themesConfig.json` files, you can specify which file should be processed by the theme generation script via the `QWC2_THEMES_CONFIG` environment variable.
 
 
 ### Implementing search providers in `js/SearchProviders.js`
